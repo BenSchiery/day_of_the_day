@@ -162,7 +162,7 @@ rand.latex <- function(max.layer = 4){
         TeX <- paste("\\tanh^{-1}\\left(", TeX, "\\right)", sep = "")
       }else if(this.fun == "f13"){
         runner <- f13(runner)
-        TeX <- paste("\\ln\\left(", TeX, "\\right", sep = "")
+        TeX <- paste("\\ln\\left(", TeX, "\\right)", sep = "")
       }else if(this.fun == "f14"){
         runner <- f14(x = runner, c = this.con)
         TeX <- paste("\\log_{", this.con.nom, "}\\left(", TeX, "\\right)", sep = "")
