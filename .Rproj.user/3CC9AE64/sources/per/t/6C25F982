@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599942965437.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "852465712",
+    "id" : "6C25F982",
+    "lastKnownWriteTime" : 1600301194,
+    "last_content_update" : 1600301194183,
+    "path" : "C:/Program Files/R/projects/day_of_the_day/day_checker.R",
+    "project_path" : "day_checker.R",
+    "properties" : {
+        "cursorPosition" : "32,10",
+        "scrollLine" : "26"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
