@@ -1,5 +1,6 @@
 rm(list = ls())
 graphics.off()
+options(scipen = 999)
 
 ##########################
 #### Constant Library ####
@@ -36,10 +37,4 @@ eta <- 0.73733830336929 # Grossman
 xi <- 1.187452351126501 # Foias
 sigmap <- 0.850736188201867 # paper folding
 
-
-
-F * e * zeta3
-
-
-
-
+delta * e - sigma * G
