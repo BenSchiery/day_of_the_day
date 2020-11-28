@@ -37,4 +37,5 @@ eta <- 0.73733830336929 # Grossman
 xi <- 1.187452351126501 # Foias
 sigmap <- 0.850736188201867 # paper folding
 
-delta * e - sigma * G
+log(phi) + cosh(pi)
+

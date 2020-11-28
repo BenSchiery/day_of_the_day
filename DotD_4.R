@@ -135,6 +135,7 @@ std.expr <- function(expr){
   
   if(is.list(a)){
     a <- std.expr(a)
+    expr[[2]] <- a
   }
   
   if(fun.arg.ct[f] == 2){
@@ -142,6 +143,7 @@ std.expr <- function(expr){
     
     if(is.list(b)){
       b <- std.expr(b)
+      expr[[3]] <- b
     }
   }
   
@@ -404,7 +406,7 @@ con.TeX <- c("pi" = "\\pi",
              "goldenRatio" = "\\phi", 
              "EulerMascheroni" = "\\gamma", 
              "one" = "1",
-             "sqrt2" = "\\sqrt{2\,}",
+             "sqrt2" = "\\sqrt{2\\,}",
              "ln2" = "\\ln(2)",
              "Catalan" = "K",
              "FeigenbaumDelta" = "\\delta",

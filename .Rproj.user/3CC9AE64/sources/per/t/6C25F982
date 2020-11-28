@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "157174825",
+    "hash" : "2956994178",
     "id" : "6C25F982",
-    "lastKnownWriteTime" : 1605975547,
-    "last_content_update" : 1605975547291,
+    "lastKnownWriteTime" : 1606577322,
+    "last_content_update" : 1606577322082,
     "path" : "C:/Program Files/R/projects/day_of_the_day/day_checker.R",
     "project_path" : "day_checker.R",
     "properties" : {
         "cursorPosition" : "29,40",
-        "scrollLine" : "21"
+        "scrollLine" : "22"
     },
     "read_only" : false,
     "read_only_alternatives" : [
